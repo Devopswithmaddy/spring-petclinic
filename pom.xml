@@ -27,6 +27,9 @@
     <nohttp-checkstyle.version>0.0.10</nohttp-checkstyle.version>
     <spring-format.version>0.0.31</spring-format.version>
 
+    <!-- SonarQube Scanner version -->
+    <sonarqube.version>5.0.1.3006</sonarqube.version>
+
   </properties>
 
   <dependencies>
